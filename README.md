@@ -1,5 +1,4 @@
-# Test
-## This is a test
-👉This is a test repository
+# openai_classify_spirit
+## This is a repository
 ***
 :
